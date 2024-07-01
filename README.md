@@ -16,6 +16,7 @@ Here I’ve completed performance test on frequently used "Login API" for Apamsv
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IsratJahan90.IsratJahan90&left_color=royalblue&right_color=black"/>
+<h3 align="left">🌱 About me: </h3>
 <h1 align="center">Hi, This is Israt </h1>
 <h3 align="center">Aspiring Software Quality Assurance Engineer from Bangladesh </h3>
 
@@ -24,7 +25,7 @@ Here I’ve completed performance test on frequently used "Login API" for Apamsv
 🔭 I’m currently working on Govt. project named APAMS version-03<br>
 🌱I've completed training in SQA & Cyber security from IT Training BD<br>👯 I’m looking to collaborate on SQA field<br>📫 Reach me Email: isratjahan2997@gmail.com<br>📄 Know about my specialities please enter https://drive.google.com/file/d/1Z0hrBFbpkLVv5IoJF1toU_jG1MZsC-GT/view?usp=drive_link<br>⚡ I think, QA is absolutely essential; without it, not only do organizations risk releasing products that are below market standards, but also lose money, wasted time and not fully exploit the potential of an idea.
 
-## About me:
+
 - 😄 Fun fact: I'm a Java developer before, worked in SQA field
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 📫 How to reach me: [Email](isratjahan2997@gmail.com)
