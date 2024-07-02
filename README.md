@@ -15,8 +15,8 @@ Here I’ve completed performance test on frequently used "Login API" for Apamsv
 ![load5](https://github.com/IsratJahan90/APAMS-Load-test-/assets/169969222/4a9bfed1-f42d-425c-b43c-cb6c1c0795d4)
 
 
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IsratJahan90.IsratJahan90&left_color=royalblue&right_color=black"/>
-<h3 align="left">🌱 About me: </h3>
 <h1 align="center">Hi, This is Israt </h1>
 <h3 align="center">Aspiring Software Quality Assurance Engineer from Bangladesh </h3>
 
@@ -26,10 +26,15 @@ Here I’ve completed performance test on frequently used "Login API" for Apamsv
 🌱I've completed training in SQA & Cyber security from IT Training BD<br>👯 I’m looking to collaborate on SQA field<br>📫 Reach me Email: isratjahan2997@gmail.com<br>📄 Know about my specialities please enter https://drive.google.com/file/d/1Z0hrBFbpkLVv5IoJF1toU_jG1MZsC-GT/view?usp=drive_link<br>⚡ I think, QA is absolutely essential; without it, not only do organizations risk releasing products that are below market standards, but also lose money, wasted time and not fully exploit the potential of an idea.
 
 
+
+## About me:
 - 😄 Fun fact: I'm a Java developer before, worked in SQA field
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 📫 How to reach me: [Email](isratjahan2997@gmail.com)
 - 💬 Ask me about `Manual` or `Automation`
+
+
+
 
 ## ⚡ Skills:
 Test planning / Test case documentation / Test metrics / Bug reporting / API testing with Postman & Newman / Load testing with Jmeter / Mind Map with XMind / Agile & Jira /  Web Automation testing / Mobile aplication testing / Cucumber / Selenium / Cypress / Appium / Javascript /  HTML / CSS / C / JAVA / Python / QA & QC / SDLC & STLC
@@ -38,7 +43,6 @@ Test planning / Test case documentation / Test metrics / Bug reporting / API tes
 - 2+ years of experience in Test planning, Test case writing, reviewing, analyzing 
 - 1+ years of experience in non functional testing like API test, Load & performance test, Security & Vulnerability test
 - 2+ years of experience in Functional testing
-- 🏆 Chat bots (Facebook Messenger)
 - ❤️ API, RESTful API
 - HTML/CSS, Javascript
 - git, github
@@ -53,19 +57,11 @@ Test planning / Test case documentation / Test metrics / Bug reporting / API tes
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  /></code>
-  <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  /></code>
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
   <img width="12" />
@@ -75,6 +71,7 @@ Test planning / Test case documentation / Test metrics / Bug reporting / API tes
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  /></code>
 </div>
+
 
 ## My Journey
 <div>
@@ -87,6 +84,10 @@ Test planning / Test case documentation / Test metrics / Bug reporting / API tes
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ishratjahan.1790) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/israt-jahan1790) 
+
+## My Rewards
+[![Trophies](https://github-profile-trophy.vercel.app/?username=IsratJahan90&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## My activity snake...
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
